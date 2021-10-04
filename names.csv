@@ -1,3 +1,4 @@
+EmployeeID,FirstName,Title,State,Laptop
 10,Andrew,Manager,DE,PC
 11,Arun,Manager,NJ,PC
 12,Harish,Sales,NJ,MAC
@@ -11,7 +12,7 @@
 20,Michael,CFO,PA,PC
 21,Gokul,Admin,PA,PC
 23,Janet,Sales,DE,PC
-22,Anne,Admin,PA,A
+22,Anne,Admin,PA,PC
 24,Hari,Admin,NJ,PC
 25,Sanker,Admin,NJ,MAC
 26,Margaret,Tech,PA,PC
